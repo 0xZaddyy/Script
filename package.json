@@ -1,0 +1,15 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "bitcoin script",
+  "main": "test.js",
+  "author": "zaddy",
+  "license": "ISC",
+  "dependencies": {
+    "@bitcoinerlab/secp256k1": "^1.0.5",
+    "bitcoinjs-lib": "^6.1.5",
+    "ecpair": "^2.1.0",
+    "tiny-secp256k1": "^2.2.3"
+  },
+  "type": "module"
+}
